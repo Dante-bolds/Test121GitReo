@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\QuizCalculatorSpring2025A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B8AC44-42D0-4299-9ABC-E6D317EECAE7}|QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A.csproj|c:\\users\\erc\\source\\repos\\quizcalculatorspring2025a\\quizcalculatorspring2025a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B8AC44-42D0-4299-9ABC-E6D317EECAE7}|QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A.csproj|solutionrelative:quizcalculatorspring2025a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B8AC44-42D0-4299-9ABC-E6D317EECAE7}|QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A.csproj|c:\\users\\erc\\source\\repos\\quizcalculatorspring2025a\\quizcalculatorspring2025a\\quizcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B8AC44-42D0-4299-9ABC-E6D317EECAE7}|QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A.csproj|solutionrelative:quizcalculatorspring2025a\\quizcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A\\QuizCalculator.cs",
+              "RelativeDocumentMoniker": "QuizCalculatorSpring2025A\\QuizCalculator.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A\\QuizCalculator.cs",
+              "RelativeToolTip": "QuizCalculatorSpring2025A\\QuizCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:58:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A\\Program.cs",
+              "RelativeDocumentMoniker": "QuizCalculatorSpring2025A\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\QuizCalculatorSpring2025A\\QuizCalculatorSpring2025A\\Program.cs",
+              "RelativeToolTip": "QuizCalculatorSpring2025A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:51:20.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

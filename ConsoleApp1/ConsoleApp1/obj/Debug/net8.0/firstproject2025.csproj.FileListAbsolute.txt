@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\firstproject2025.exe
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\firstproject2025.deps.json
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\firstproject2025.runtimeconfig.json
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\firstproject2025.dll
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\firstproject2025.pdb
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.AssemblyInfo.cs
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.dll
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\firstproject2025.dll
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.pdb
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\firstproject2025.genruntimeconfig.cache
+C:\Users\ERC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\firstproject2025.dll

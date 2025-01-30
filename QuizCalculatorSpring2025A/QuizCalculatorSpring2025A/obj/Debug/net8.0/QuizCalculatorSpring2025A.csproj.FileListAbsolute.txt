@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\bin\Debug\net8.0\QuizCalculatorSpring2025A.exe
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\bin\Debug\net8.0\QuizCalculatorSpring2025A.deps.json
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\bin\Debug\net8.0\QuizCalculatorSpring2025A.runtimeconfig.json
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\bin\Debug\net8.0\QuizCalculatorSpring2025A.dll
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\bin\Debug\net8.0\QuizCalculatorSpring2025A.pdb
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.AssemblyInfo.cs
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.dll
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\refint\QuizCalculatorSpring2025A.dll
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.pdb
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\QuizCalculatorSpring2025A.genruntimeconfig.cache
+C:\Users\ERC\source\repos\QuizCalculatorSpring2025A\QuizCalculatorSpring2025A\obj\Debug\net8.0\ref\QuizCalculatorSpring2025A.dll
