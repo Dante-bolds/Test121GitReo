@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("How chocolate eggs have you gathered?");
+            Console.WriteLine("Chocolate eggs gathered: ");
             int eggCounter = Convert.ToInt32(Console.ReadLine());
 
             int forSisters = eggCounter / 4;
