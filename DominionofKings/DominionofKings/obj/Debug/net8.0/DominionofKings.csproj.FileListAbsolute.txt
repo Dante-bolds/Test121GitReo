@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\bin\Debug\net8.0\DominionofKings.exe
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\bin\Debug\net8.0\DominionofKings.deps.json
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\bin\Debug\net8.0\DominionofKings.runtimeconfig.json
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\bin\Debug\net8.0\DominionofKings.dll
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\bin\Debug\net8.0\DominionofKings.pdb
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.AssemblyInfo.cs
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.dll
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\refint\DominionofKings.dll
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.pdb
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\DominionofKings.genruntimeconfig.cache
+C:\Users\ERC\source\repos\DominionofKings\DominionofKings\obj\Debug\net8.0\ref\DominionofKings.dll

@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\bin\Debug\net8.0\DefenseofConsolas.exe
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\bin\Debug\net8.0\DefenseofConsolas.deps.json
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\bin\Debug\net8.0\DefenseofConsolas.runtimeconfig.json
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\bin\Debug\net8.0\DefenseofConsolas.dll
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\bin\Debug\net8.0\DefenseofConsolas.pdb
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.AssemblyInfo.cs
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.dll
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\refint\DefenseofConsolas.dll
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.pdb
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\DefenseofConsolas.genruntimeconfig.cache
+C:\Users\ERC\source\repos\DefenseofConsolas\DefenseofConsolas\obj\Debug\net8.0\ref\DefenseofConsolas.dll
