@@ -4,16 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is the triangle's width?");
-            string widthText = Console.ReadLine();
-            double width = Convert.ToSingle(widthText);
+            Console.WriteLine("Triangle's width: ");
+            double width = Convert.ToDouble(widthText);
 
-            Console.WriteLine("What is the triangle's height?");
-            string heightText = Console.ReadLine();
-            double height = Convert.ToSingle(heightText);
+            Console.WriteLine("Triangle's height: ");
+            double height = Convert.ToDouble(heightText);
 
             double area = (width * height) / 2;
-            Console.WriteLine("The area is " + area);
+            Console.WriteLine("Area: " + area);
         }
     }
 }
