@@ -6,10 +6,10 @@
         {
             Console.Title = "Defense of Consolas";
 
-            Console.Write("Target Row? ");
+            Console.Write("What is the Target Row?: ");
             int row = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Target Column? ");
+            Console.Write("What is the Target Column?: ");
             int column = Convert.ToInt32(Console.ReadLine());
             Console.ForegroundColor = ConsoleColor.Green;
 
